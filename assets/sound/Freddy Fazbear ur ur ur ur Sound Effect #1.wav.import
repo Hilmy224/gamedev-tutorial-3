@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cew7gx0uaqq8y"
+path="res://.godot/imported/Freddy Fazbear ur ur ur ur Sound Effect #1.wav-dafca5b0564c4c666b97aaba3f4f1477.sample"
+
+[deps]
+
+source_file="res://assets/sound/Freddy Fazbear ur ur ur ur Sound Effect #1.wav"
+dest_files=["res://.godot/imported/Freddy Fazbear ur ur ur ur Sound Effect #1.wav-dafca5b0564c4c666b97aaba3f4f1477.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=2
+edit/loop_begin=3
+edit/loop_end=-1
+compress/mode=0
